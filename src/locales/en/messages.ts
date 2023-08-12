@@ -1,0 +1,1 @@
+/*eslint-disable*/export const messages=JSON.parse("{\"你好，世界\":\"Hello world\",\"编辑\":\"edit\",\"来测试 HMR\":\"To test HMR\",\"在 IDE 中安装 Volar 以获得更好的 DX\":\"Install Volar in IDE for better DX\",\"点击 Vite 和 Vue 徽标以了解更多信息\":\"Click on the Vite and Vue logos to learn more\"}");
